@@ -1,4 +1,4 @@
-# angular-propertybinding
+# angular-eventbinding
 
 my-component.component.ts
 
